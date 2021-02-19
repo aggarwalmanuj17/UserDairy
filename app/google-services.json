@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500017095340",
+    "project_id": "userdairy",
+    "storage_bucket": "userdairy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500017095340:android:a482b1f77f9e14b308f509",
+        "android_client_info": {
+          "package_name": "com.manuj.userdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500017095340-hqoeevkgpvq8v3qjec9s1kfbcrf4gln0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCje0hwpHgrbDUAEAo8RyoQFAjZtgiEBZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500017095340-hqoeevkgpvq8v3qjec9s1kfbcrf4gln0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
